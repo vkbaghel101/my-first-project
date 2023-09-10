@@ -1,0 +1,119 @@
+/* .navbar {
+  color: aliceblue;
+  background-color: black;
+} */
+
+.nav-item a:hover {
+  background-color: #ccc !important;
+  color: black;
+}
+
+.nav-item {
+  padding: 2px 20px;
+}
+
+.nav-item a {
+  color: white;
+}
+
+.search {
+  padding: 9px 20px !important;
+}
+.search:hover {
+  background-color: red !important;
+}
+
+.navbar a:hover {
+  background-color: grey;
+  color: black;
+}
+
+
+.band {
+  padding: 7% 20% 3% 20%;
+}
+.band h2 {
+  letter-spacing: 7px;
+  text-align: center;
+  color: black;
+}
+
+.para {
+  font-style: italic;
+  text-align: center;
+  color: black;
+}
+
+.pb-50{padding-bottom: 50px;}
+
+
+.calender {
+  width: 800px;
+  color: white;
+}
+.date {
+  color: white;
+  list-style: none;
+}
+.date li {
+  border: 1px solid white;
+}
+
+*/ .date {
+  list-style: none;
+  padding: 1% 17%;
+}
+.date li {
+  border: 1px solid rgb(172, 166, 166);
+  background-color: white;
+}
+
+.para {
+  color: white;
+  padding-top: 1%;
+}
+.card-group {
+  padding: 0% 15% 10% 15%;
+}
+
+.ticket {
+  background-color: black;
+  color: white;
+  padding: 3% 5%;
+}
+
+.form {
+  float: left;
+  padding: 50%;
+}
+.add {
+  list-style: none;
+}
+
+.notibtn {
+  background: #000000;
+  padding: 0px 8px;
+  border-radius: 50%;
+  float: right;
+  color: #fff;
+  font-size: 15px;
+}
+.contact {
+  padding: 5%;
+}
+.send {
+  float: right;
+  background-color: #000000;
+  color: white;
+}
+form input {
+  padding: 1.5%;
+  margin: 1%;
+}
+.footer {
+  text-align: center;
+  padding: 8%;
+}
+.footer div {
+  padding: 1%;
+}
